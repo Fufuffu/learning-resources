@@ -5,3 +5,4 @@ Structure Member Alignment, Padding & Data Packing: https://www.geeksforgeeks.or
 Memory allocation strategies: https://www.gingerbill.org/series/memory-allocation-strategies/ \
 Blog with posts about C#, .NET & Low level topics: https://migeel.sk/ \
 Blog with various posts about low level concepts: https://tavianator.com/index.html  \
+Data orient design: https://www.dataorienteddesign.com/dodbook/node2.html 
