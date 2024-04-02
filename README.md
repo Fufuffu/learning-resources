@@ -11,3 +11,4 @@ Hacking, reverse engineering and security classes: https://samsclass.info/old-cl
 Hacking minesweeper: https://samsclass.info/126/proj/PMA402.htm \
 Albion Online Development (Networking and massive applications): https://davidsalz.de/ \
 Unity and shader tutorials: https://catlikecoding.com/unity/tutorials/
+Arena allocator: https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
