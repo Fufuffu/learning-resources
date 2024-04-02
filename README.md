@@ -21,3 +21,6 @@ https://nickmcd.me/2021/04/04/high-performance-voxel-engine/ \
 \
 Vulkan: \
 https://vkguide.dev/docs/gpudriven/gpu_driven_engines/ \
+\
+\ Más gráficos
+https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf \
