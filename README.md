@@ -12,6 +12,7 @@ Hacking minesweeper: https://samsclass.info/126/proj/PMA402.htm \
 Albion Online Development (Networking and massive applications): https://davidsalz.de/ \
 Unity and shader tutorials: https://catlikecoding.com/unity/tutorials/ \
 Arena allocator: https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator \
+Our machinery (Low level topics, misc): https://ruby0x1.github.io/machinery_blog_archive/ \
 \
 OpenGL: \
 https://ktstephano.github.io/rendering/opengl/prog_vtx_pulling \
@@ -22,5 +23,5 @@ https://nickmcd.me/2021/04/04/high-performance-voxel-engine/ \
 Vulkan: \
 https://vkguide.dev/docs/gpudriven/gpu_driven_engines/ \
 \
-\ Más gráficos
-https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf \
+Más gráficos: \
+https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf
