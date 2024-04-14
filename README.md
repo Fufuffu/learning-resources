@@ -13,6 +13,7 @@ Albion Online Development (Networking and massive applications): https://davidsa
 Unity and shader tutorials: https://catlikecoding.com/unity/tutorials/ \
 Arena allocator: https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator \
 Our machinery (Low level topics, misc): https://ruby0x1.github.io/machinery_blog_archive/ \
+Graphics / math: https://iquilezles.org/articles/ \
 \
 OpenGL: \
 https://ktstephano.github.io/rendering/opengl/prog_vtx_pulling \
