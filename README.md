@@ -15,6 +15,7 @@ Arena allocator: https://www.rfleury.com/p/untangling-lifetimes-the-arena-alloca
 Our machinery (Low level topics, misc): https://ruby0x1.github.io/machinery_blog_archive/ \
 Graphics / math: https://iquilezles.org/articles/ \
 Resource handling / concept of handle: https://giordi91.github.io/post/resourcesystem/ & https://floooh.github.io/2018/06/17/handles-vs-pointers.html \
+Common mistakes in indiedev: https://www.derekyu.com/makegames/ \
 \
 OpenGL: \
 https://ktstephano.github.io/rendering/opengl/prog_vtx_pulling \
