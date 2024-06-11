@@ -1,6 +1,7 @@
 # learning-resources
 
 Interactive visual explanations of math and algorithms: https://www.redblobgames.com/ \
+Various visualizations (load balancing, hashing, queues): https://samwho.dev/ \
 Structure Member Alignment, Padding & Data Packing: https://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/ \
 Memory allocation strategies: https://www.gingerbill.org/series/memory-allocation-strategies/ \
 Blog with posts about C#, .NET & Low level topics: https://migeel.sk/ \
@@ -30,4 +31,8 @@ Vulkan: \
 https://vkguide.dev/docs/gpudriven/gpu_driven_engines/ \
 \
 Más gráficos: \
-https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf
+https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf \
+\
+Youtube channels: \
+\
+Advanced C: https://www.youtube.com/@cacharle \
