@@ -18,6 +18,10 @@ Graphics / math: https://iquilezles.org/articles/ \
 Resource handling / concept of handle: https://giordi91.github.io/post/resourcesystem/ & https://floooh.github.io/2018/06/17/handles-vs-pointers.html \
 Common mistakes in indiedev: https://www.derekyu.com/makegames/ \
 \
+Floating point numbers: \
+https://fabiensanglard.net/floating_point_visually_explained/ \
+https://float.exposed/0x44bf9400 \
+\
 Algorithms: \
 Algorithms for modern hardware: https://en.algorithmica.org/hpc/ \
 \
@@ -38,4 +42,4 @@ https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021
 \
 Youtube channels: \
 \
-Advanced C: https://www.youtube.com/@cacharle \
+Advanced C: https://www.youtube.com/@cacharle
