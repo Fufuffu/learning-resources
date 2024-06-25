@@ -22,6 +22,9 @@ Floating point numbers: \
 https://fabiensanglard.net/floating_point_visually_explained/ \
 https://float.exposed/0x44bf9400 \
 \
+Data structures: \
+https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/chapter/chapter-1/ \
+\
 Algorithms: \
 Algorithms for modern hardware: https://en.algorithmica.org/hpc/ \
 \
