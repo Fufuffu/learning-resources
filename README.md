@@ -18,6 +18,7 @@ Graphics / math: https://iquilezles.org/articles/ \
 Resource handling / concept of handle: https://giordi91.github.io/post/resourcesystem/ & https://floooh.github.io/2018/06/17/handles-vs-pointers.html \
 Common mistakes in indiedev: https://www.derekyu.com/makegames/ \
 Crafting interpreters: https://craftinginterpreters.com/hash-tables.html \
+Computer graphics basics: https://www.scratchapixel.com/ \
 \
 Floating point numbers: \
 https://fabiensanglard.net/floating_point_visually_explained/ \
@@ -41,7 +42,7 @@ https://nickmcd.me/2021/04/04/high-performance-voxel-engine/ \
 Vulkan: \
 https://vkguide.dev/docs/gpudriven/gpu_driven_engines/ \
 \
-Más gráficos: \
+Graphics talks: \
 https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf \
 \
 Youtube channels: \
