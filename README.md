@@ -46,4 +46,5 @@ https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021
 \
 Youtube channels: \
 \
+Algorithm visualizations: https://www.youtube.com/@SpanningTree/videos \  
 Advanced C: https://www.youtube.com/@cacharle
