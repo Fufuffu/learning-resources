@@ -26,6 +26,8 @@ https://float.exposed/0x44bf9400 \
 \
 Making an emulator from scratch (C / Assembly): http://emulator101.com/ \
 \
+Precise sleep function: https://blat-blatnik.github.io/computerBear/making-accurate-sleep-function/ \
+\
 Data structures: \
 https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/chapter/chapter-1/ \
 \
