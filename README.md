@@ -28,6 +28,8 @@ Making an emulator from scratch (C / Assembly): http://emulator101.com/ \
 \
 Precise sleep function: https://blat-blatnik.github.io/computerBear/making-accurate-sleep-function/ \
 \
+Procedural gen blog: https://www.boristhebrave.com/2022/04/25/editable-wfc/ \
+\
 Data structures: \
 https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/chapter/chapter-1/ \
 \
