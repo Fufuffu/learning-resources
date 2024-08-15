@@ -19,6 +19,7 @@ Resource handling / concept of handle: https://giordi91.github.io/post/resources
 Common mistakes in indiedev: https://www.derekyu.com/makegames/ \
 Crafting interpreters: https://craftinginterpreters.com/hash-tables.html \
 Computer graphics basics: https://www.scratchapixel.com/ \
+Memory, cache & CPU Optimization resources: https://gist.github.com/ocornut/cb980ea183e848685a36 \
 \
 Floating point numbers: \
 https://fabiensanglard.net/floating_point_visually_explained/ \
