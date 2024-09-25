@@ -21,6 +21,9 @@ Crafting interpreters: https://craftinginterpreters.com/hash-tables.html \
 Computer graphics basics: https://www.scratchapixel.com/ \
 Memory, cache & CPU Optimization resources: https://gist.github.com/ocornut/cb980ea183e848685a36 \
 How do CPUs work?: https://cpu.land/ \
+Memory safety strategies: https://verdagon.dev/grimoire/grimoire \
+How does S3 work: https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html \
+Malloc benchmark: https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/ \
 \
 Floating point numbers: \
 https://fabiensanglard.net/floating_point_visually_explained/ \
@@ -42,6 +45,7 @@ SIMD: \
 https://medium.com/e4r/a-primer-to-simd-architecture-from-concept-to-code-d3cc470d6709 \
 \
 OpenGL: \
+https://nehe.gamedev.net/ \
 https://ktstephano.github.io/rendering/opengl/prog_vtx_pulling \
 https://voxel.wiki/wiki/vertex-pulling/ \
 https://nickmcd.me/2021/04/04/high-performance-voxel-engine/ \
