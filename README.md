@@ -24,6 +24,7 @@ How do CPUs work?: https://cpu.land/ \
 Memory safety strategies: https://verdagon.dev/grimoire/grimoire \
 How does S3 work: https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html \
 Malloc benchmark: https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/ \
+3D Math Primer book: https://gamemath.com/book/intro.html \
 \
 Floating point numbers: \
 https://fabiensanglard.net/floating_point_visually_explained/ \
