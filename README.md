@@ -25,6 +25,7 @@ Memory safety strategies: https://verdagon.dev/grimoire/grimoire \
 How does S3 work: https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html \
 Malloc benchmark: https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/ \
 3D Math Primer book: https://gamemath.com/book/intro.html \
+General C usage notes: https://beej.us/guide/bgc/ \
 \
 Floating point numbers: \
 https://fabiensanglard.net/floating_point_visually_explained/ \
@@ -44,16 +45,19 @@ Algorithms for modern hardware: https://en.algorithmica.org/hpc/ \
 \
 SIMD: \
 https://medium.com/e4r/a-primer-to-simd-architecture-from-concept-to-code-d3cc470d6709 \
+https://sbaziotis.com/performance/a-beginners-guide-to-vectorization-by-hand-part-1.html \
 \
 OpenGL: \
 https://nehe.gamedev.net/ \
 https://ktstephano.github.io/rendering/opengl/prog_vtx_pulling \
 https://voxel.wiki/wiki/vertex-pulling/ \
 https://nickmcd.me/2021/04/04/high-performance-voxel-engine/ \
+https://github.com/ssloy/tinyrenderer/wiki \
 (Vídeo) https://youtu.be/4xs66m1Of4A?si=HiXELiKtPrpne-jJ \
 \
 Vulkan: \
 https://vkguide.dev/docs/gpudriven/gpu_driven_engines/ \
+https://github.com/keengames/vulkan_backend \
 \
 Graphics talks: \
 https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf \
