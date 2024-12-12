@@ -26,6 +26,7 @@ How does S3 work: https://www.allthingsdistributed.com/2023/07/building-and-oper
 Malloc benchmark: https://www.forrestthewoods.com/blog/benchmarking-malloc-with-doom3/ \
 3D Math Primer book: https://gamemath.com/book/intro.html \
 General C usage notes: https://beej.us/guide/bgc/ \
+https://easyperf.net/blog/2018/06/01/PMU-counters-and-profiling-basics \
 \
 Floating point numbers: \
 https://fabiensanglard.net/floating_point_visually_explained/ \
